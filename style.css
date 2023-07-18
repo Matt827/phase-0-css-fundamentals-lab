@@ -1,5 +1,24 @@
 body {
-  width: 100%;
+  width: 50%;
   height: 100%;
-  margin: 0;
+  margin: auto;
+  text-align: center;
+  
+}
+
+head {
+  width: 50%;
+  margin: auto;
+  text-align: center;
+}
+
+a {
+  nav-right: 10px;
+  nav-left: 10px;
+  background-color: grey;
+}
+
+div {
+  background: red;
+  width: 25%;
 }
